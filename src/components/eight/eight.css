@@ -1,0 +1,11 @@
+.eightDiv{
+    background-color: indigo;
+    border: 2px solid lightblue;
+    color: lightblue;
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+    
+}

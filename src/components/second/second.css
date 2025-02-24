@@ -1,0 +1,11 @@
+.secondDiv{
+    background-color: lightblue;
+    border: 2px solid green;
+    color: green;
+    width: 800px;
+    height: 800px;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+    
+}

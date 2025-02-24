@@ -1,0 +1,11 @@
+.sixthDiv{
+    background-color: red;
+    border: 2px solid indigo;
+    color: indigo;
+    width: 400px;
+    height: 400px;
+    margin: 35px;
+    padding: 10px;
+    text-align: center;
+    
+}

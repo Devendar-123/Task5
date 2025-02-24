@@ -1,0 +1,11 @@
+.firstDiv{
+    width: 900px;
+    height: 900px;
+    border: 2px solid violet;
+    background-color: indigo;
+    color: violet;
+    text-align: center;
+    padding: 20px;
+    margin: 25px;
+    
+}
